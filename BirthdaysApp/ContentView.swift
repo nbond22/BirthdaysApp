@@ -41,7 +41,6 @@ struct ContentView: View {
                 }
             }
             .safeAreaInset(edge: .bottom) {
-                
                 VStack {
                     Text("New Birthday")
                         .font(.headline)
